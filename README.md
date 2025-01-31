@@ -3,7 +3,7 @@
 Welcome to the K4F7's Personal Stealer Scripts Repository on GitHub. This collection features scripts for popular Roblox games such as Murder Mystery 2, Adopt Me, Pet Simulator 99, and more.
 
 ## Disclaimer
-Please use these scripts responsibly and in accordance with Roblox's terms of service. Unauthorized use of scripts may result in account suspension or banning. Not that I am not responsible for any use with these scripts as these are educational use only. Thanks!
+Please use these scripts responsibly and in accordance with Roblox's terms of service. Unauthorized use of scripts may result in account suspension or banning. Note that I am not responsible for any use with these scripts as these are educational use only. Thanks!
 
 ## Features
 - **Game Compatibility**: Scripts available for various popular Roblox games.
