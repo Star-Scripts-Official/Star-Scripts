@@ -1,6 +1,6 @@
 # Star Script's 💫
 
-Welcome to the K4F7's Personal Stealer Scripts Repository on GitHub. This collection features scripts for popular Roblox games such as Murder Mystery 2, Adopt Me, and Pet Simulator 99.
+Welcome to the Official Star Scripts Repository on GitHub. This collection features scripts for popular Roblox games such as Murder Mystery 2, Adopt Me, and Pet Simulator 99.
 
 ## Disclaimer ✅
 Please use these scripts responsibly and in accordance with Roblox's terms of service. Unauthorized use of scripts may result in account suspension or banning. Note that I am not responsible for any use with these scripts as these are educational use only. Thanks!
